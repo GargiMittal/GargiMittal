@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Gargi Mittal</h1>
 <h3 align="center">Currently a Computer Science Engineering Student at GWECA</h3>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **21cse030@gweca.ac.in**
 
