@@ -1,9 +1,11 @@
 # Hi 👋 I am Gargi! 
 I am a computer Science student at GWECA'25,I specialize in python and every day I try to learn something new!!
 
-- 🌐 Visit my [twitter](https://twitter.com/gargimittal_) to get in touch.
-- 👋 Currently learning data Science.
+- 🌐 Visit my [Twitter](https://twitter.com/gargimittal_) to get in touch.
+- 👋 Currently learning Data Science.
+- 📁 Check out my [portfolio](https://gargimittal.github.io/Portfolio/) to explore my projects.
 - ✍️ Open Source enthusiast!!
+
 
 ---
 ![Gargi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GargiMittal&show_icons=true&theme=transparent)
