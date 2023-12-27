@@ -10,4 +10,3 @@ I am a computer Science student at GWECA'25,I specialize in python and every day
 ---
 ![Gargi's GitHub stats](https://github-readme-stats.vercel.app/api?username=GargiMittal&show_icons=true&theme=transparent)
 ![](https://github-readme-streak-stats.herokuapp.com?user=GargiMittal&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GargiMittal&langs_count=8)
