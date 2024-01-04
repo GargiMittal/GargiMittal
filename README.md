@@ -13,7 +13,7 @@
 
 
 # Hi 👋 I am Gargi! 
-I am a computer Science student at GWECA'25,I specialize in python and every day I try to learn something new!!
+I am a computer Science student at GWECA'25,I specialize in python, web devlopment and every day I try to learn something new!!
 
 - 🌐 Visit my [Twitter](https://twitter.com/gargimittal_) to get in touch.
 - 👋 Currently learning Data Science.
