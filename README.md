@@ -18,7 +18,6 @@ I am a computer Science student at GWECA'25,I specialize in python, web devlopme
 - 🌐 Visit my [Twitter](https://twitter.com/gargimittal_) to get in touch.
 - 👋 Currently learning Data Science.
 - 📁 Check out my [portfolio](https://gargimittal.github.io/Portfolio/) to explore my projects.
-- ✍️ Open Source enthusiast!!
 
 
 ---
