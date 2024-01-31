@@ -15,9 +15,9 @@
 # Hi 👋 I am Gargi! 
 I am a computer Science student at GWECA'25,I specialize in python, web devlopment and every day I try to learn something new!!
 
-- 🌐 Visit my [Twitter](https://twitter.com/gargimittal_) to get in touch.
-- 👋 Currently working in creating good projects.
-- 📁 Check out my [portfolio](https://gargimittal.github.io/Portfolio/) to explore my projects.
+ 🌐 Visit my [Twitter](https://twitter.com/gargimittal_) to get in touch.
+ 👋 Currently working in creating good projects.
+ 📁 Check out my [portfolio](https://gargimittal.github.io/Portfolio/) to explore my projects.
 
 
 ---
