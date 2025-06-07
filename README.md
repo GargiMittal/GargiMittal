@@ -1,10 +1,11 @@
 <div id="header" align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; padding: 20px; background: #111; color: #ccc;">
 
-  <img src="header img.jpeg" alt="Gargi Mittal" 
-       style="max-width: 250px; border-radius: 15px; 
-              box-shadow: 0 4px 10px rgba(0,0,0,0.4); 
-              margin-bottom: 20px; 
-              filter: brightness(0.9) contrast(1.1) saturate(1.2) blur(0.5px);" />
+  <<img src="fish.jpg" alt="Gargi Mittal" 
+     style="width: 100%; height: auto; display: block; 
+            border-radius: 0; 
+            box-shadow: 0 4px 10px rgba(0,0,0,0.4); 
+            margin-bottom: 20px; 
+            filter: brightness(0.9) contrast(1.1) saturate(1.2) blur(0.5px);" />
 
   <div id="badges" style="margin-bottom: 20px;">
     <a href="https://www.linkedin.com/in/gargi-mittal-199434230/" target="_blank" rel="noopener noreferrer" style="margin: 0 10px;">
