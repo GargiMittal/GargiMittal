@@ -18,7 +18,7 @@
     </a>
   </div>
 
-  <h1 style="font-weight: 700; font-size: 2.8rem; margin-bottom: 10px; color: #fff;">Hi 👋 I'm <span style="color:#4f46e5;">Gargi Mittal</span></h1>
+  <h1 style="font-weight: 700; font-size: 2.8rem; margin-bottom: 10px; color: #fff;">Hi! I'm <span style="color:#4f46e5;">Gargi Mittal!!</span></h1>
   
   <p style="font-size: 1.25rem; max-width: 650px; margin: auto;">
     I'm a Computer Science student at Government Women Engineering College Ajmer (Class of 2025), specializing in <strong>python and web development</strong>. Every day, I strive to learn something new and work on projects that can make a meaningful difference. My journey in tech is driven by curiosity and a love for problem-solving, whether that's coding up innovative web applications, experimenting with data structures, or diving into the fascinating world of software engineering.
