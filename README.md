@@ -78,7 +78,7 @@
 |---------|-------------|-----------|
 | [Epistemico 25](https://github.com/GargiMittal/Epistemico25) | college fest website 2025 |  [View Live](https://gargimittal.github.io/Epistemico25/) |
 | [Epistemico 23](https://github.com/GargiMittal/Epistemico-23) | college fest website 2023 |[View Live](https://gargimittal.github.io/Epistemico-23/)|
-| [TutorTube](https://github.com/GargiMittal/tutor-tube) | Free Educational Video platform | [View Live](tutor-tube.vercel.app) |
+| [TutorTube](https://github.com/GargiMittal/tutor-tube) | Free Educational Video platform | [View Live](https://tutor-tube.vercel.app/) |
 | [Shri Ram Yatra](https://github.com/gargimittal/Shree-Ram-Yatra/) | Traveling Agency website | [View Live](https://gargimittal.github.io/Shree-Ram-Yatra/) |
 | [Herbal Plant Recommender](https://github.com/GargiMittal/Herbal-Plant-recommender) | Plant recommendation system based on soil | [View Live](https://herbal-plant-recommender.onrender.com/) |
 | [OneMonth HTML](https://gargimittal.github.io/OneMonth-HTML/) | HTML learning showcase | [View Live](https://gargimittal.github.io/OneMonth-HTML/) |
