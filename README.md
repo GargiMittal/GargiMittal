@@ -31,37 +31,10 @@
   <hr style="width: 60%; margin: 40px auto; border: 1px solid #333;" />
 
   <div id="stats" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 40px 0;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GargiMittal&show_icons=true&theme=tokyonight&hide_border=true" alt="Gargi's GitHub stats" style="max-width: 350px; border-radius: 10px;" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=GargiMittal&theme=tokyonight&hide_border=true" alt="Gargi's GitHub streak" style="max-width: 350px; border-radius: 10px;" />
   </div>
 
 </div>
-
----
-
-## 🛠️ **Tech Stack**
-
-### **Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### **Frameworks & Libraries**
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
@@ -73,31 +46,11 @@
 
 | # | Project | Description | Tech | Stars |
 |---|---------|-------------|------|-------|
-| 1️⃣ | [**Hand Sign Detection Model**](https://github.com/GargiMittal/Hand_Sign_Detection_Model) | AI-powered hand gesture recognition system | Python, TensorFlow, OpenCV | ⭐⭐⭐⭐ |
-| 2️⃣ | [**Sign Language Communication System**](https://github.com/GargiMittal/Sign-Language-Communication-System) | Real-time sign language translation using ML models | Python, ML | ⭐⭐⭐⭐ |
-| 3️⃣ | [**TutorTube**](https://github.com/GargiMittal/tutor-tube) | Educational video platform for learners | Django, JavaScript | ⭐⭐⭐ |
+| 1️⃣ | [**Sign Language Communication System**](https://github.com/GargiMittal/Sign-Language-Communication-System) | Real-time sign language translation using ML models | Python, ML | ⭐⭐⭐⭐ |
+2️⃣ | [**Epistemico 2025 Website**](https://github.com/GargiMittal/Epistemico25) | Led development of official college tech fest website with live event updates and responsive UI | (HTML, CSS, JavaScript)template,(Flask, SQLite) Original Hosted  | ⭐⭐⭐⭐ |
+| 3️⃣ | [**TutorTube**](https://github.com/GargiMittal/tutor-tube) | Educational video platform for learners with | Django, JavaScript | ⭐⭐⭐ |
 
 **→ [View All Projects](#-projects-portfolio)**
-
-</div>
-
----
-
-## 📊 **GitHub Activity**
-
-<div align="center">
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=GargiMittal&theme=react-dark&hide_border=true&bg_color=0D1117)
-
-</div>
-
----
-
-## 📊 **Top Languages**
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GargiMittal&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -123,13 +76,13 @@
 ### 🌐 **Web Development Projects**
 | Project | Description | Live Demo |
 |---------|-------------|-----------|
-| [Shri Ram Yatra](https://github.com/gargimittal/Shree-Ram-Yatra/) | Educational pilgrimage website | [View Live](https://gargimittal.github.io/Shree-Ram-Yatra/) |
-| [Epistemico 25](https://github.com/GargiMittal/Epistemico25) | College tech fest website | [Link] |
-| [Epistemico 23](https://github.com/GargiMittal/Epistemico-23) | Previous year event website | - |
-| [TutorTube](https://github.com/GargiMittal/tutor-tube) | Educational video platform | - |
-| [Resume Maker](https://github.com/GargiMittal/Resume-Maker) | Dynamic resume builder tool | - |
-| [Herbal Plant Recommender](https://github.com/GargiMittal/Herbal-Plant-recommender) | Plant recommendation system using CSV data | - |
+| [Epistemico 25](https://github.com/GargiMittal/Epistemico25) | college fest website 2025 |  [View Live](https://gargimittal.github.io/Epistemico25/) |
+| [Epistemico 23](https://github.com/GargiMittal/Epistemico-23) | college fest website 2023 |[View Live](https://gargimittal.github.io/Epistemico-23/)|
+| [TutorTube](https://github.com/GargiMittal/tutor-tube) | Free Educational Video platform | [View Live](tutor-tube.vercel.app/) |
+| [Shri Ram Yatra](https://github.com/gargimittal/Shree-Ram-Yatra/) | Traveling Agency website | [View Live](https://gargimittal.github.io/Shree-Ram-Yatra/) |
+| [Herbal Plant Recommender](https://github.com/GargiMittal/Herbal-Plant-recommender) | Plant recommendation system based on soil | [View Live](https://herbal-plant-recommender.onrender.com/) |
 | [OneMonth HTML](https://gargimittal.github.io/OneMonth-HTML/) | HTML learning showcase | [View Live](https://gargimittal.github.io/OneMonth-HTML/) |
+| [Resume Maker](https://github.com/GargiMittal/Resume-Maker) | Simple resume builder tool |[View Live](https://gargimittal.github.io/Resume-Maker/) |
 
 ### 🎮 **Game Development**
 | Project | Description | Language |
@@ -140,17 +93,42 @@
 ### 💡 **Learning & Practice**
 | Repository | Topic |
 |------------|-------|
-| [Learning Django](https://github.com/GargiMittal/Learning-Django) | Web Framework Fundamentals |
 | [C Codes](https://github.com/GargiMittal/c-codes) | C Programming Basics |
+| [OneMonth HTML](https://gargimittal.github.io/OneMonth-HTML/) | HTML learning showcase | [View Live](https://gargimittal.github.io/OneMonth-HTML/) |
+| [Learning Django](https://github.com/GargiMittal/Learning-Django) | Web Framework Fundamentals |
 
 ---
 
 ## 🤝 **Open Source Contributions**
-- [first-contributions](https://github.com/GargiMittal/first-contributions) - Contributing to beginner-friendly projects
+- [first-contributions](https://github.com/GargiMittal/first-contributions) - First contribution
 - [python-beginner-projects](https://github.com/Mrinank-Bhowmick/python-beginner-projects) - Community Python learning resources
 
 ---
+## 🛠️ **Tech Stack**
 
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+### **Frameworks & Libraries**
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
+---
 ## 💬 **Let's Connect!**
 
 I'm always excited to collaborate on interesting projects and discuss technology. Feel free to reach out:
