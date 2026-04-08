@@ -25,14 +25,21 @@
   </p>
 
   <p style="font-size: 1.1rem; max-width: 700px; margin: 20px auto; line-height: 1.6;">
-    🚀 Passionate about <strong>Python, Web Development, and Machine Learning</strong> | Building solutions that solve real-world problems | Open-source contributor | Tech enthusiast
+    Passionate about <strong>Python, Web Development, and Machine Learning</strong> | Building solutions that solve real-world problems | Open-source contributor | Tech enthusiast
   </p>
 
   <hr style="width: 60%; margin: 40px auto; border: 1px solid #333;" />
 
-  <div id="stats" style="display: flex; justify-content: center; gap: 25px; flex-wrap: wrap; margin: 40px 0;">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=GargiMittal&theme=tokyonight&hide_border=true" alt="Gargi's GitHub streak" style="max-width: 350px; border-radius: 10px;" />
-  </div>
+ <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=98906186" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98906186&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @GargiMittal" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=98906186&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
 </div>
 
